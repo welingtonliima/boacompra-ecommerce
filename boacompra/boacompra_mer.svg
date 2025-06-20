@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="647mm" xmlns="http://www.w3.org/2000/svg" height="344mm" version="1.1" viewBox="0 0 2447 1302" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="960,975 960,1055" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="969,962 960,989 951,962 969,962" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="959" cy="992" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="965,1042 954,1042" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="960,604 960,730" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="969,591 960,617 951,591 969,591" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="959" cy="620" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="965,717 954,717" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1138,604 1138,690 1501,690 1501,743" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1147,591 1138,617 1128,591 1147,591" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="1137" cy="620" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1507,730 1496,730" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1441,584 1441,650 1586,650 1586,743" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1451,571 1441,598 1432,571 1451,571" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="1441" cy="601" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1591,730 1580,730" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1815,583 1815,650 1671,650 1671,743" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1824,570 1815,597 1806,570 1824,570" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="1815" cy="600" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1676,730 1665,730" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2101,597 2101,690 1755,690 1755,743" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2111,584 2101,611 2092,584 2111,584" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="2101" cy="614" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="1761,730 1750,730" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2188,260 2188,353" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2198,246 2188,273 2179,246 2198,246" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="2188" cy="276" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2194,339 2183,339" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2009,260 2009,300 471,300 471,340" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2018,246 2009,273 2000,246 2018,246" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="2008" cy="276" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="477,326 466,326" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="471,610 471,650 572,650 572,756" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="481,597 471,624 462,597 481,597" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="471" cy="627" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="578,743 567,743" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2275,597 2275,750" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2285,584 2275,611 2266,584 2285,584" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="2275" cy="614" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="2281,737 2270,737" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="285,234 285,340" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="294,220 285,247 276,220 294,220" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="284" cy="250" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="290,326 279,326" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="285,610 285,650 184,650 184,743" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="294,597 285,624 276,597 294,597" stroke="#0080c0" stroke-width="1"/>
+   <ellipse cx="284" cy="627" rx="3" ry="3" fill="#ffffff" stroke="#0080c0" stroke-width="1"/>
+   <polyline fill="none" points="189,730 178,730" stroke="#0080c0" stroke-width="1"/>
+   <rect x="773" y="1055" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="773" y="1055" fill="url(#Gradient1)" width="374" height="245" stroke="#0080c0" stroke-width="1"/>
+   <text x="960" y="1066" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_UNIDADE_FEDERATIVA</text>
+   <line x1="773" x2="1147" y1="1072" y2="1072" stroke="#0080c0" stroke-width="1"/>
+   <text x="777" y="1082" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_UNIDADE_FEDERATIVA</text>
+   <text x="777" y="1095" fill="#000000" font-size="10" font-family="Arial">CO_UNIDADE_FEDERATIVA_IBGE</text>
+   <text x="777" y="1108" fill="#000000" font-size="10" font-family="Arial">NO_UNIDADE_FEDERATIVA</text>
+   <text x="777" y="1121" fill="#000000" font-size="10" font-family="Arial">SG_UNIDADE_FEDERATIVA</text>
+   <text x="777" y="1134" fill="#000000" font-size="10" font-family="Arial">IN_ATIVO</text>
+   <text x="777" y="1147" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="777" y="1160" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="777" y="1173" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="777" y="1186" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="953" y="1082" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">TINYINT </text>
+   <text x="953" y="1095" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="953" y="1108" fill="#000000" font-size="10" font-family="Arial">VARCHAR(100)  </text>
+   <text x="953" y="1121" fill="#000000" font-size="10" font-family="Arial">CHAR(2) </text>
+   <text x="953" y="1134" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="953" y="1147" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="953" y="1160" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="953" y="1173" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="953" y="1186" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1040" y="1082" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1040" y="1095" fill="#000000" font-size="10" font-family="Arial">&lt;ak1&gt;</text>
+   <text x="1040" y="1108" fill="#000000" font-size="10" font-family="Arial">&lt;ak2&gt;</text>
+   <text x="1040" y="1121" fill="#000000" font-size="10" font-family="Arial">&lt;ak3&gt;</text>
+   <text x="1076" y="1134" fill="#000000" font-size="10" font-family="Arial">&lt;i&gt;</text>
+   <text x="1099" y="1082" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="1099" y="1095" fill="#000000" font-size="10" font-family="Arial">null</text>
+   <text x="1099" y="1108" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1099" y="1121" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1099" y="1134" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1099" y="1147" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1099" y="1160" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1099" y="1173" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1099" y="1186" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="773" x2="1147" y1="1193" y2="1193" stroke="#0080c0" stroke-width="1"/>
+   <text x="797" y="1203" fill="#000000" font-size="10" font-family="Arial">PK_UNIDFEDE</text>
+   <text x="797" y="1216" fill="#000000" font-size="10" font-family="Arial">UK_UNIDFEDE_01</text>
+   <text x="797" y="1229" fill="#000000" font-size="10" font-family="Arial">UK_UNIDFEDE_02</text>
+   <text x="797" y="1242" fill="#000000" font-size="10" font-family="Arial">UK_UNIDFEDE_03</text>
+   <text x="894" y="1203" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="894" y="1216" fill="#000000" font-size="10" font-family="Arial">&lt;ak1&gt;</text>
+   <text x="894" y="1229" fill="#000000" font-size="10" font-family="Arial">&lt;ak2&gt;</text>
+   <text x="894" y="1242" fill="#000000" font-size="10" font-family="Arial">&lt;ak3&gt;</text>
+   <polyline fill="none" points="779,1203 780,1204 782,1204 783,1203 788,1203 788,1204 790,1204 790,1202 783,1202 782,1200 780,1200 779,1202 779,1203" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="779,1216 780,1217 782,1217 783,1216 788,1216 788,1217 790,1217 790,1215 783,1215 782,1213 780,1213 779,1215 779,1216" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="779,1229 780,1230 782,1230 783,1229 788,1229 788,1230 790,1230 790,1228 783,1228 782,1226 780,1226 779,1228 779,1229" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="779,1242 780,1243 782,1243 783,1242 788,1242 788,1243 790,1243 790,1241 783,1241 782,1239 780,1239 779,1241 779,1242" stroke="#000000" stroke-width="1"/>
+   <line x1="773" x2="1147" y1="1249" y2="1249" stroke="#0080c0" stroke-width="1"/>
+   <text x="797" y="1259" fill="#000000" font-size="10" font-family="Arial">IDX_UNIDFEDE_01</text>
+   <polyline fill="none" points="781,1263 788,1263 788,1252 781,1252 781,1263" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="783,1261 786,1261 786,1259 783,1259 783,1261" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="783,1257 786,1257 786,1254 783,1254 783,1257" stroke="#000000" stroke-width="1"/>
+   <line x1="773" x2="1147" y1="1266" y2="1266" stroke="#0080c0" stroke-width="1"/>
+   <line x1="773" x2="1147" y1="1283" y2="1283" stroke="#0080c0" stroke-width="1"/>
+   <text x="777" y="1294" fill="#000000" font-size="10" font-family="Arial">[DADO_PUBLICO] Armazena as Unidades Federativas do Brasil</text>
+   <rect x="779" y="730" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="779" y="730" fill="url(#Gradient2)" width="362" height="245" stroke="#0080c0" stroke-width="1"/>
+   <text x="960" y="741" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_MUNICIPIO</text>
+   <line x1="779" x2="1141" y1="747" y2="747" stroke="#0080c0" stroke-width="1"/>
+   <text x="784" y="757" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_MUNICIPIO</text>
+   <text x="784" y="770" fill="#000000" font-size="10" font-family="Arial">ID_UF</text>
+   <text x="784" y="783" fill="#000000" font-size="10" font-family="Arial">CO_MUNICIPIO_IBGE</text>
+   <text x="784" y="796" fill="#000000" font-size="10" font-family="Arial">NO_MUNICIPIO</text>
+   <text x="784" y="809" fill="#000000" font-size="10" font-family="Arial">IN_ATIVO</text>
+   <text x="784" y="822" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="784" y="835" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="784" y="848" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="784" y="861" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="932" y="757" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">INT </text>
+   <text x="932" y="770" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="932" y="783" fill="#000000" font-size="10" font-family="Arial">INT </text>
+   <text x="932" y="796" fill="#000000" font-size="10" font-family="Arial">VARCHAR(100)  </text>
+   <text x="932" y="809" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="932" y="822" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="932" y="835" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="932" y="848" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="932" y="861" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1019" y="757" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1019" y="770" fill="#000000" font-size="10" font-family="Arial">&lt;ak2,fk&gt;</text>
+   <text x="1019" y="783" fill="#000000" font-size="10" font-family="Arial">&lt;ak1&gt;</text>
+   <text x="1019" y="796" fill="#000000" font-size="10" font-family="Arial">&lt;ak2&gt;</text>
+   <text x="1065" y="770" fill="#000000" font-size="10" font-family="Arial">&lt;i1&gt;</text>
+   <text x="1065" y="809" fill="#000000" font-size="10" font-family="Arial">&lt;i2&gt;</text>
+   <text x="1094" y="757" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="1094" y="770" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1094" y="783" fill="#000000" font-size="10" font-family="Arial">null</text>
+   <text x="1094" y="796" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1094" y="809" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1094" y="822" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1094" y="835" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1094" y="848" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1094" y="861" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="779" x2="1141" y1="868" y2="868" stroke="#0080c0" stroke-width="1"/>
+   <text x="803" y="878" fill="#000000" font-size="10" font-family="Arial">PK_MUNICIPIO</text>
+   <text x="803" y="891" fill="#000000" font-size="10" font-family="Arial">UK_MUNICIPIO_01</text>
+   <text x="803" y="904" fill="#000000" font-size="10" font-family="Arial">UK_MUNICIPIO_02</text>
+   <text x="903" y="878" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="903" y="891" fill="#000000" font-size="10" font-family="Arial">&lt;ak1&gt;</text>
+   <text x="903" y="904" fill="#000000" font-size="10" font-family="Arial">&lt;ak2&gt;</text>
+   <polyline fill="none" points="785,878 786,879 789,879 790,878 794,878 794,879 796,879 796,877 790,877 789,875 786,875 785,877 785,878" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="785,891 786,892 789,892 790,891 794,891 794,892 796,892 796,890 790,890 789,888 786,888 785,890 785,891" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="785,904 786,905 789,905 790,904 794,904 794,905 796,905 796,903 790,903 789,901 786,901 785,903 785,904" stroke="#000000" stroke-width="1"/>
+   <line x1="779" x2="1141" y1="911" y2="911" stroke="#0080c0" stroke-width="1"/>
+   <text x="803" y="921" fill="#000000" font-size="10" font-family="Arial">IDX_MUNICIPIO_01</text>
+   <text x="803" y="934" fill="#000000" font-size="10" font-family="Arial">IDX_MUNICIPIO_02</text>
+   <polyline fill="none" points="787,925 794,925 794,915 787,915 787,925" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="789,923 792,923 792,921 789,921 789,923" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="789,919 792,919 792,917 789,917 789,919" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="787,938 794,938 794,928 787,928 787,938" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="789,936 792,936 792,934 789,934 789,936" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="789,932 792,932 792,930 789,930 789,932" stroke="#000000" stroke-width="1"/>
+   <line x1="779" x2="1141" y1="941" y2="941" stroke="#0080c0" stroke-width="1"/>
+   <line x1="779" x2="1141" y1="958" y2="958" stroke="#0080c0" stroke-width="1"/>
+   <text x="783" y="969" fill="#000000" font-size="10" font-family="Arial">[DADO_PUBLICO] Armazena os municípios do Brasil</text>
+   <rect x="1459" y="743" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1459" y="743" fill="url(#Gradient3)" width="339" height="219" stroke="#0080c0" stroke-width="1"/>
+   <text x="1628" y="754" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_CLIENTE</text>
+   <line x1="1459" x2="1798" y1="760" y2="760" stroke="#0080c0" stroke-width="1"/>
+   <text x="1463" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_CLIENTE</text>
+   <text x="1463" y="783" fill="#000000" font-size="10" font-family="Arial">NO_CLIENTE</text>
+   <text x="1463" y="796" fill="#000000" font-size="10" font-family="Arial">NU_CPF</text>
+   <text x="1463" y="809" fill="#000000" font-size="10" font-family="Arial">DT_NASCIMENTO</text>
+   <text x="1463" y="822" fill="#000000" font-size="10" font-family="Arial">IN_ATIVO</text>
+   <text x="1463" y="835" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="1463" y="848" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="1463" y="861" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="1463" y="874" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="1611" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="1611" y="783" fill="#000000" font-size="10" font-family="Arial">VARCHAR(150)  </text>
+   <text x="1611" y="796" fill="#000000" font-size="10" font-family="Arial">VARCHAR(11) </text>
+   <text x="1611" y="809" fill="#000000" font-size="10" font-family="Arial">DATE </text>
+   <text x="1611" y="822" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="1611" y="835" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1611" y="848" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1611" y="861" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1611" y="874" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1698" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1698" y="796" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="1728" y="822" fill="#000000" font-size="10" font-family="Arial">&lt;i&gt;</text>
+   <text x="1751" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="1751" y="783" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1751" y="796" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1751" y="809" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1751" y="822" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1751" y="835" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1751" y="848" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1751" y="861" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1751" y="874" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="1459" x2="1798" y1="881" y2="881" stroke="#0080c0" stroke-width="1"/>
+   <text x="1483" y="891" fill="#000000" font-size="10" font-family="Arial">PK_CLIENTE</text>
+   <text x="1483" y="904" fill="#000000" font-size="10" font-family="Arial">UK_CLIENTE_01</text>
+   <text x="1573" y="891" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="1573" y="904" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="1465,891 1466,892 1468,892 1469,891 1473,891 1473,892 1476,892 1476,890 1469,890 1468,888 1466,888 1465,890 1465,891" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1465,904 1466,905 1468,905 1469,904 1473,904 1473,905 1476,905 1476,903 1469,903 1468,901 1466,901 1465,903 1465,904" stroke="#000000" stroke-width="1"/>
+   <line x1="1459" x2="1798" y1="911" y2="911" stroke="#0080c0" stroke-width="1"/>
+   <text x="1483" y="921" fill="#000000" font-size="10" font-family="Arial">IDX_CLIENTE_01</text>
+   <polyline fill="none" points="1467,925 1474,925 1474,915 1467,915 1467,925" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1469,923 1472,923 1472,921 1469,921 1469,923" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1469,919 1472,919 1472,917 1469,917 1469,919" stroke="#000000" stroke-width="1"/>
+   <line x1="1459" x2="1798" y1="928" y2="928" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1459" x2="1798" y1="945" y2="945" stroke="#0080c0" stroke-width="1"/>
+   <text x="1463" y="956" fill="#000000" font-size="10" font-family="Arial">[DADO_PESSOAL] Armazena os clientes</text>
+   <rect x="1257" y="366" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1257" y="366" fill="url(#Gradient4)" width="368" height="218" stroke="#0080c0" stroke-width="1"/>
+   <text x="1441" y="377" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_CLIENTE_EMAIL</text>
+   <line x1="1257" x2="1625" y1="383" y2="383" stroke="#0080c0" stroke-width="1"/>
+   <text x="1262" y="393" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_CLIENTE_EMAIL</text>
+   <text x="1262" y="406" fill="#000000" font-size="10" font-family="Arial">ID_CLIENTE</text>
+   <text x="1262" y="419" fill="#000000" font-size="10" font-family="Arial">TX_EMAIL</text>
+   <text x="1262" y="432" fill="#000000" font-size="10" font-family="Arial">IN_PRINCIPAL</text>
+   <text x="1262" y="445" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="1262" y="458" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="1262" y="471" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="1262" y="484" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="1410" y="393" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="1410" y="406" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1410" y="419" fill="#000000" font-size="10" font-family="Arial">VARCHAR(150)  </text>
+   <text x="1410" y="432" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="1410" y="445" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1410" y="458" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1410" y="471" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1410" y="484" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1497" y="393" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1497" y="406" fill="#000000" font-size="10" font-family="Arial">&lt;ak,fk&gt;</text>
+   <text x="1497" y="419" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="1537" y="406" fill="#000000" font-size="10" font-family="Arial">&lt;i1,i2&gt;</text>
+   <text x="1537" y="432" fill="#000000" font-size="10" font-family="Arial">&lt;i2&gt;</text>
+   <text x="1578" y="393" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="1578" y="406" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1578" y="419" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1578" y="432" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1578" y="445" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1578" y="458" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1578" y="471" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1578" y="484" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="1257" x2="1625" y1="491" y2="491" stroke="#0080c0" stroke-width="1"/>
+   <text x="1281" y="501" fill="#000000" font-size="10" font-family="Arial">PK_CLIEEMAI</text>
+   <text x="1281" y="514" fill="#000000" font-size="10" font-family="Arial">UK_CLIEEMAI_01</text>
+   <text x="1376" y="501" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="1376" y="514" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="1264,500 1265,502 1267,502 1268,500 1272,500 1272,502 1274,502 1274,499 1268,499 1267,498 1265,498 1264,499 1264,500" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1264,513 1265,515 1267,515 1268,513 1272,513 1272,515 1274,515 1274,512 1268,512 1267,511 1265,511 1264,512 1264,513" stroke="#000000" stroke-width="1"/>
+   <line x1="1257" x2="1625" y1="521" y2="521" stroke="#0080c0" stroke-width="1"/>
+   <text x="1281" y="531" fill="#000000" font-size="10" font-family="Arial">IDX_CLIEEMAI_01</text>
+   <text x="1281" y="544" fill="#000000" font-size="10" font-family="Arial">IDX_CLIEEMAI_02</text>
+   <polyline fill="none" points="1265,534 1273,534 1273,524 1265,524 1265,534" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1267,532 1271,532 1271,530 1267,530 1267,532" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1267,528 1271,528 1271,526 1267,526 1267,528" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1265,547 1273,547 1273,537 1265,537 1265,547" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1267,545 1271,545 1271,543 1267,543 1267,545" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1267,541 1271,541 1271,539 1267,539 1267,541" stroke="#000000" stroke-width="1"/>
+   <line x1="1257" x2="1625" y1="551" y2="551" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1257" x2="1625" y1="568" y2="568" stroke="#0080c0" stroke-width="1"/>
+   <text x="1261" y="579" fill="#000000" font-size="10" font-family="Arial">[DADO_PESSOAL] Armazena os e-mails dos clientes</text>
+   <rect x="2106" y="750" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="2106" y="750" fill="url(#Gradient5)" width="339" height="206" stroke="#0080c0" stroke-width="1"/>
+   <text x="2275" y="761" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_PEDIDO_SITUACAO</text>
+   <line x1="2106" x2="2445" y1="767" y2="767" stroke="#0080c0" stroke-width="1"/>
+   <text x="2110" y="777" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">CO_PEDIDO_SITUACAO</text>
+   <text x="2110" y="790" fill="#000000" font-size="10" font-family="Arial">NO_PEDIDO_SITUACAO</text>
+   <text x="2110" y="803" fill="#000000" font-size="10" font-family="Arial">DS_PEDIDO_SITUACAO</text>
+   <text x="2110" y="816" fill="#000000" font-size="10" font-family="Arial">IN_ATIVO</text>
+   <text x="2110" y="829" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="2110" y="842" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="2110" y="855" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="2110" y="868" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="2258" y="777" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">TINYINT </text>
+   <text x="2258" y="790" fill="#000000" font-size="10" font-family="Arial">VARCHAR(50)  </text>
+   <text x="2258" y="803" fill="#000000" font-size="10" font-family="Arial">VARCHAR(150)  </text>
+   <text x="2258" y="816" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="2258" y="829" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2258" y="842" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="2258" y="855" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2258" y="868" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="2345" y="777" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2345" y="790" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="2375" y="816" fill="#000000" font-size="10" font-family="Arial">&lt;i&gt;</text>
+   <text x="2398" y="777" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="2398" y="790" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2398" y="803" fill="#000000" font-size="10" font-family="Arial">null</text>
+   <text x="2398" y="816" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2398" y="829" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2398" y="842" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2398" y="855" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2398" y="868" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="2106" x2="2445" y1="875" y2="875" stroke="#0080c0" stroke-width="1"/>
+   <text x="2130" y="885" fill="#000000" font-size="10" font-family="Arial">PK_PEDISITU</text>
+   <text x="2130" y="898" fill="#000000" font-size="10" font-family="Arial">UK_PEDISITU_01</text>
+   <text x="2224" y="885" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="2224" y="898" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="2112,884 2113,886 2115,886 2116,884 2121,884 2121,886 2123,886 2123,883 2116,883 2115,882 2113,882 2112,883 2112,884" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2112,897 2113,899 2115,899 2116,897 2121,897 2121,899 2123,899 2123,896 2116,896 2115,895 2113,895 2112,896 2112,897" stroke="#000000" stroke-width="1"/>
+   <line x1="2106" x2="2445" y1="905" y2="905" stroke="#0080c0" stroke-width="1"/>
+   <text x="2130" y="915" fill="#000000" font-size="10" font-family="Arial">IDX_PEDISITU_01</text>
+   <polyline fill="none" points="2114,918 2121,918 2121,908 2114,908 2114,918" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2116,916 2119,916 2119,914 2116,914 2116,916" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2116,912 2119,912 2119,910 2116,910 2116,912" stroke="#000000" stroke-width="1"/>
+   <line x1="2106" x2="2445" y1="922" y2="922" stroke="#0080c0" stroke-width="1"/>
+   <line x1="2106" x2="2445" y1="939" y2="939" stroke="#0080c0" stroke-width="1"/>
+   <text x="2110" y="950" fill="#000000" font-size="10" font-family="Arial">[DADO_PUBLICO] Armazena as situações dos pedidos</text>
+   <rect x="192" y="340" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient6" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="192" y="340" fill="url(#Gradient6)" width="373" height="270" stroke="#0080c0" stroke-width="1"/>
+   <text x="378" y="351" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_PRODUTO</text>
+   <line x1="192" x2="565" y1="357" y2="357" stroke="#0080c0" stroke-width="1"/>
+   <text x="196" y="367" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_PRODUTO</text>
+   <text x="196" y="380" fill="#000000" font-size="10" font-family="Arial">ID_PRODUTO_CATEGORIA</text>
+   <text x="196" y="393" fill="#000000" font-size="10" font-family="Arial">ID_PRODUTO_UNIDADE_MEDIDA</text>
+   <text x="196" y="406" fill="#000000" font-size="10" font-family="Arial">NO_PRODUTO</text>
+   <text x="196" y="419" fill="#000000" font-size="10" font-family="Arial">DS_PRODUTO</text>
+   <text x="196" y="432" fill="#000000" font-size="10" font-family="Arial">VL_PRODUTO_UNITARIO</text>
+   <text x="196" y="445" fill="#000000" font-size="10" font-family="Arial">IN_ATIVO</text>
+   <text x="196" y="458" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="196" y="471" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="196" y="484" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="196" y="497" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="368" y="367" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="368" y="380" fill="#000000" font-size="10" font-family="Arial">SMALLINT </text>
+   <text x="368" y="393" fill="#000000" font-size="10" font-family="Arial">SMALLINT </text>
+   <text x="368" y="406" fill="#000000" font-size="10" font-family="Arial">VARCHAR(150)  </text>
+   <text x="368" y="419" fill="#000000" font-size="10" font-family="Arial">VARCHAR(500)  </text>
+   <text x="368" y="432" fill="#000000" font-size="10" font-family="Arial">DECIMAL(15,2) </text>
+   <text x="368" y="445" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="368" y="458" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="368" y="471" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="368" y="484" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="368" y="497" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP </text>
+   <text x="455" y="367" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="455" y="380" fill="#000000" font-size="10" font-family="Arial">&lt;fk1&gt;</text>
+   <text x="455" y="393" fill="#000000" font-size="10" font-family="Arial">&lt;fk2&gt;</text>
+   <text x="455" y="406" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="488" y="380" fill="#000000" font-size="10" font-family="Arial">&lt;i1&gt;</text>
+   <text x="488" y="393" fill="#000000" font-size="10" font-family="Arial">&lt;i2&gt;</text>
+   <text x="488" y="445" fill="#000000" font-size="10" font-family="Arial">&lt;i3&gt;</text>
+   <text x="517" y="367" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="517" y="380" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="393" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="406" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="419" fill="#000000" font-size="10" font-family="Arial">null</text>
+   <text x="517" y="432" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="445" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="458" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="471" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="484" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="517" y="497" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="192" x2="565" y1="504" y2="504" stroke="#0080c0" stroke-width="1"/>
+   <text x="216" y="514" fill="#000000" font-size="10" font-family="Arial">PK_PRODUTO</text>
+   <text x="216" y="527" fill="#000000" font-size="10" font-family="Arial">UK_PRODUTO_01</text>
+   <text x="313" y="514" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="313" y="527" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="198,513 199,515 201,515 202,513 206,513 206,515 208,515 208,512 202,512 201,511 199,511 198,512 198,513" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="198,526 199,528 201,528 202,526 206,526 206,528 208,528 208,525 202,525 201,523 199,523 198,525 198,526" stroke="#000000" stroke-width="1"/>
+   <line x1="192" x2="565" y1="534" y2="534" stroke="#0080c0" stroke-width="1"/>
+   <text x="216" y="544" fill="#000000" font-size="10" font-family="Arial">IDX_PRODUTO_01</text>
+   <text x="216" y="557" fill="#000000" font-size="10" font-family="Arial">IDX_PRODUTO_02</text>
+   <text x="216" y="570" fill="#000000" font-size="10" font-family="Arial">IDX_PRODUTO_03</text>
+   <polyline fill="none" points="200,547 207,547 207,537 200,537 200,547" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="202,545 205,545 205,543 202,543 202,545" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="202,541 205,541 205,539 202,539 202,541" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="200,560 207,560 207,550 200,550 200,560" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="202,558 205,558 205,556 202,556 202,558" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="202,554 205,554 205,552 202,552 202,554" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="200,573 207,573 207,563 200,563 200,573" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="202,571 205,571 205,569 202,569 202,571" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="202,567 205,567 205,565 202,565 202,567" stroke="#000000" stroke-width="1"/>
+   <line x1="192" x2="565" y1="576" y2="576" stroke="#0080c0" stroke-width="1"/>
+   <line x1="192" x2="565" y1="593" y2="593" stroke="#0080c0" stroke-width="1"/>
+   <text x="196" y="604" fill="#000000" font-size="10" font-family="Arial">[ESTRATEGICO_FINACEIRO] Armazena os produtos</text>
+   <rect x="2014" y="353" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient7" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="2014" y="353" fill="url(#Gradient7)" width="349" height="244" stroke="#0080c0" stroke-width="1"/>
+   <text x="2188" y="364" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_PEDIDO</text>
+   <line x1="2014" x2="2363" y1="370" y2="370" stroke="#0080c0" stroke-width="1"/>
+   <text x="2019" y="380" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_PEDIDO</text>
+   <text x="2019" y="393" fill="#000000" font-size="10" font-family="Arial">ID_CLIENTE</text>
+   <text x="2019" y="406" fill="#000000" font-size="10" font-family="Arial">CO_PEDIDO_SITUACAO</text>
+   <text x="2019" y="419" fill="#000000" font-size="10" font-family="Arial">DT_PEDIDO</text>
+   <text x="2019" y="432" fill="#000000" font-size="10" font-family="Arial">VL_PEDIDO_TOTAL</text>
+   <text x="2019" y="445" fill="#000000" font-size="10" font-family="Arial">TX_OBSERVACAO</text>
+   <text x="2019" y="458" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="2019" y="471" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="2019" y="484" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="2019" y="497" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="2167" y="380" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="2167" y="393" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2167" y="406" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="2167" y="419" fill="#000000" font-size="10" font-family="Arial">DATE </text>
+   <text x="2167" y="432" fill="#000000" font-size="10" font-family="Arial">DECIMAL(15,2) </text>
+   <text x="2167" y="445" fill="#000000" font-size="10" font-family="Arial">VARCHAR(500)  </text>
+   <text x="2167" y="458" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2167" y="471" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="2167" y="484" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2167" y="497" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="2254" y="380" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2254" y="393" fill="#000000" font-size="10" font-family="Arial">&lt;fk1&gt;</text>
+   <text x="2254" y="406" fill="#000000" font-size="10" font-family="Arial">&lt;fk2&gt;</text>
+   <text x="2287" y="393" fill="#000000" font-size="10" font-family="Arial">&lt;i1&gt;</text>
+   <text x="2287" y="406" fill="#000000" font-size="10" font-family="Arial">&lt;i2&gt;</text>
+   <text x="2287" y="419" fill="#000000" font-size="10" font-family="Arial">&lt;i3&gt;</text>
+   <text x="2316" y="380" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="2316" y="393" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2316" y="406" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2316" y="419" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2316" y="432" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2316" y="445" fill="#000000" font-size="10" font-family="Arial">null</text>
+   <text x="2316" y="458" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2316" y="471" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2316" y="484" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2316" y="497" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="2014" x2="2363" y1="504" y2="504" stroke="#0080c0" stroke-width="1"/>
+   <text x="2038" y="514" fill="#000000" font-size="10" font-family="Arial">PK_PEDIDO</text>
+   <text x="2105" y="514" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <polyline fill="none" points="2021,513 2022,515 2024,515 2025,513 2029,513 2029,515 2031,515 2031,512 2025,512 2024,511 2022,511 2021,512 2021,513" stroke="#000000" stroke-width="1"/>
+   <line x1="2014" x2="2363" y1="521" y2="521" stroke="#0080c0" stroke-width="1"/>
+   <text x="2038" y="531" fill="#000000" font-size="10" font-family="Arial">IDX_PEDIDO_01</text>
+   <text x="2038" y="544" fill="#000000" font-size="10" font-family="Arial">IDX_PEDIDO_02</text>
+   <text x="2038" y="557" fill="#000000" font-size="10" font-family="Arial">IDX_PEDIDO_03</text>
+   <polyline fill="none" points="2022,534 2029,534 2029,524 2022,524 2022,534" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2024,532 2027,532 2027,530 2024,530 2024,532" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2024,528 2027,528 2027,526 2024,526 2024,528" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2022,547 2029,547 2029,537 2022,537 2022,547" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2024,545 2027,545 2027,543 2024,543 2024,545" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2024,541 2027,541 2027,539 2024,539 2024,541" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2022,560 2029,560 2029,550 2022,550 2022,560" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2024,558 2027,558 2027,556 2024,556 2024,558" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="2024,554 2027,554 2027,552 2024,552 2024,554" stroke="#000000" stroke-width="1"/>
+   <line x1="2014" x2="2363" y1="564" y2="564" stroke="#0080c0" stroke-width="1"/>
+   <line x1="2014" x2="2363" y1="580" y2="580" stroke="#0080c0" stroke-width="1"/>
+   <text x="2018" y="591" fill="#000000" font-size="10" font-family="Arial">[ESTRATEGICO_FINACEIRO] Armazena os pedidos</text>
+   <rect x="1919" y="2" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient8" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1919" y="2" fill="url(#Gradient8)" width="359" height="258" stroke="#0080c0" stroke-width="1"/>
+   <text x="2098" y="13" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_PEDIDO_ITEM</text>
+   <line x1="1919" x2="2278" y1="19" y2="19" stroke="#0080c0" stroke-width="1"/>
+   <text x="1924" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_PEDIDO_ITEM</text>
+   <text x="1924" y="42" fill="#000000" font-size="10" font-family="Arial">ID_PEDIDO</text>
+   <text x="1924" y="55" fill="#000000" font-size="10" font-family="Arial">ID_PRODUTO</text>
+   <text x="1924" y="68" fill="#000000" font-size="10" font-family="Arial">QT_ITEM</text>
+   <text x="1924" y="81" fill="#000000" font-size="10" font-family="Arial">VL_UNITARIO</text>
+   <text x="1924" y="94" fill="#000000" font-size="10" font-family="Arial">VL_DESCONTO</text>
+   <text x="1924" y="107" fill="#000000" font-size="10" font-family="Arial">VL_ITEM_TOTAL</text>
+   <text x="1924" y="120" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="1924" y="133" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="1924" y="146" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="1924" y="159" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="2072" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="2072" y="42" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2072" y="55" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2072" y="68" fill="#000000" font-size="10" font-family="Arial">INT </text>
+   <text x="2072" y="81" fill="#000000" font-size="10" font-family="Arial">DECIMAL(15,2) </text>
+   <text x="2072" y="94" fill="#000000" font-size="10" font-family="Arial">DECIMAL(15,2) </text>
+   <text x="2072" y="107" fill="#000000" font-size="10" font-family="Arial">DECIMAL(15,2) </text>
+   <text x="2072" y="120" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2072" y="133" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="2072" y="146" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="2072" y="159" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="2156" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="2156" y="42" fill="#000000" font-size="10" font-family="Arial">&lt;ak,fk1&gt;</text>
+   <text x="2156" y="55" fill="#000000" font-size="10" font-family="Arial">&lt;ak,fk2&gt;</text>
+   <text x="2202" y="42" fill="#000000" font-size="10" font-family="Arial">&lt;i1&gt;</text>
+   <text x="2202" y="55" fill="#000000" font-size="10" font-family="Arial">&lt;i2&gt;</text>
+   <text x="2231" y="29" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="2231" y="42" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="55" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="68" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="81" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="94" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="107" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="120" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="133" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="146" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="2231" y="159" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="1919" x2="2278" y1="166" y2="166" stroke="#0080c0" stroke-width="1"/>
+   <text x="1943" y="176" fill="#000000" font-size="10" font-family="Arial">PK_PEDIITEM</text>
+   <text x="1943" y="189" fill="#000000" font-size="10" font-family="Arial">UK_PEDIITEM_01</text>
+   <text x="2039" y="176" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="2039" y="189" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="1926,175 1927,177 1929,177 1930,175 1934,175 1934,177 1936,177 1936,174 1930,174 1929,173 1927,173 1926,174 1926,175" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1926,188 1927,190 1929,190 1930,188 1934,188 1934,190 1936,190 1936,187 1930,187 1929,186 1927,186 1926,187 1926,188" stroke="#000000" stroke-width="1"/>
+   <line x1="1919" x2="2278" y1="196" y2="196" stroke="#0080c0" stroke-width="1"/>
+   <text x="1943" y="206" fill="#000000" font-size="10" font-family="Arial">IDX_PEDIITEM_01</text>
+   <text x="1943" y="219" fill="#000000" font-size="10" font-family="Arial">IDX_PEDIITEM_02</text>
+   <polyline fill="none" points="1927,209 1935,209 1935,199 1927,199 1927,209" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1929,207 1932,207 1932,205 1929,205 1929,207" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1929,203 1932,203 1932,201 1929,201 1929,203" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1927,222 1935,222 1935,212 1927,212 1927,222" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1929,220 1932,220 1932,218 1929,218 1929,220" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1929,216 1932,216 1932,214 1929,214 1929,216" stroke="#000000" stroke-width="1"/>
+   <line x1="1919" x2="2278" y1="226" y2="226" stroke="#0080c0" stroke-width="1"/>
+   <line x1="1919" x2="2278" y1="243" y2="243" stroke="#0080c0" stroke-width="1"/>
+   <text x="1923" y="254" fill="#000000" font-size="10" font-family="Arial">[ESTRATEGICO_FINACEIRO] Armazena os itens dos pedidos</text>
+   <rect x="406" y="756" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient9" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="406" y="756" fill="url(#Gradient9)" width="333" height="193" stroke="#0080c0" stroke-width="1"/>
+   <text x="572" y="767" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_PRODUTO_CATEGORIA</text>
+   <line x1="406" x2="739" y1="773" y2="773" stroke="#0080c0" stroke-width="1"/>
+   <text x="411" y="783" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_PRODUTO_CATEGORIA</text>
+   <text x="411" y="796" fill="#000000" font-size="10" font-family="Arial">NO_PRODUTO_CATEGORIA</text>
+   <text x="411" y="809" fill="#000000" font-size="10" font-family="Arial">IN_ATIVO</text>
+   <text x="411" y="822" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="411" y="835" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="411" y="848" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="411" y="861" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="559" y="783" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">SMALLINT </text>
+   <text x="559" y="796" fill="#000000" font-size="10" font-family="Arial">VARCHAR(50)  </text>
+   <text x="559" y="809" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="559" y="822" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="559" y="835" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="559" y="848" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="559" y="861" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="640" y="783" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="640" y="796" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="670" y="809" fill="#000000" font-size="10" font-family="Arial">&lt;i&gt;</text>
+   <text x="693" y="783" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="693" y="796" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="693" y="809" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="693" y="822" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="693" y="835" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="693" y="848" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="693" y="861" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="406" x2="739" y1="868" y2="868" stroke="#0080c0" stroke-width="1"/>
+   <text x="430" y="878" fill="#000000" font-size="10" font-family="Arial">PK_PRODCATE</text>
+   <text x="430" y="891" fill="#000000" font-size="10" font-family="Arial">UK_PRODCATE_01</text>
+   <text x="533" y="878" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="533" y="891" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="412,878 413,879 416,879 417,878 421,878 421,879 423,879 423,877 417,877 416,875 413,875 412,877 412,878" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="412,891 413,892 416,892 417,891 421,891 421,892 423,892 423,890 417,890 416,888 413,888 412,890 412,891" stroke="#000000" stroke-width="1"/>
+   <line x1="406" x2="739" y1="898" y2="898" stroke="#0080c0" stroke-width="1"/>
+   <text x="430" y="908" fill="#000000" font-size="10" font-family="Arial">IDX_PRODCATE_01</text>
+   <polyline fill="none" points="414,912 421,912 421,902 414,902 414,912" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="416,910 419,910 419,908 416,908 416,910" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="416,906 419,906 419,904 416,904 416,906" stroke="#000000" stroke-width="1"/>
+   <line x1="406" x2="739" y1="915" y2="915" stroke="#0080c0" stroke-width="1"/>
+   <line x1="406" x2="739" y1="932" y2="932" stroke="#0080c0" stroke-width="1"/>
+   <text x="410" y="943" fill="#000000" font-size="10" font-family="Arial">[DADO_PUBLICO] Armazena as categorias dos produtos</text>
+   <rect x="871" y="346" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient10" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="871" y="346" fill="url(#Gradient10)" width="356" height="258" stroke="#0080c0" stroke-width="1"/>
+   <text x="1049" y="357" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_CLIENTE_ENDERECO</text>
+   <line x1="871" x2="1227" y1="363" y2="363" stroke="#0080c0" stroke-width="1"/>
+   <text x="876" y="373" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_CLIENTE_ENDERECO</text>
+   <text x="876" y="386" fill="#000000" font-size="10" font-family="Arial">ID_CLIENTE</text>
+   <text x="876" y="399" fill="#000000" font-size="10" font-family="Arial">ID_MUNICIPIO</text>
+   <text x="876" y="412" fill="#000000" font-size="10" font-family="Arial">NO_LOGRADOURO</text>
+   <text x="876" y="425" fill="#000000" font-size="10" font-family="Arial">NU_ENDERECO</text>
+   <text x="876" y="438" fill="#000000" font-size="10" font-family="Arial">DS_COMPLEMENTO</text>
+   <text x="876" y="451" fill="#000000" font-size="10" font-family="Arial">NO_BAIRRO</text>
+   <text x="876" y="464" fill="#000000" font-size="10" font-family="Arial">NU_CEP</text>
+   <text x="876" y="477" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="876" y="490" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="876" y="503" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="876" y="516" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="1024" y="373" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="1024" y="386" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1024" y="399" fill="#000000" font-size="10" font-family="Arial">INT </text>
+   <text x="1024" y="412" fill="#000000" font-size="10" font-family="Arial">VARCHAR(100)  </text>
+   <text x="1024" y="425" fill="#000000" font-size="10" font-family="Arial">VARCHAR(20) </text>
+   <text x="1024" y="438" fill="#000000" font-size="10" font-family="Arial">VARCHAR(100)  </text>
+   <text x="1024" y="451" fill="#000000" font-size="10" font-family="Arial">VARCHAR(100)  </text>
+   <text x="1024" y="464" fill="#000000" font-size="10" font-family="Arial">VARCHAR(8) </text>
+   <text x="1024" y="477" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1024" y="490" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1024" y="503" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1024" y="516" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1111" y="373" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1111" y="386" fill="#000000" font-size="10" font-family="Arial">&lt;ak,fk2&gt;</text>
+   <text x="1111" y="399" fill="#000000" font-size="10" font-family="Arial">&lt;fk1&gt;</text>
+   <text x="1157" y="399" fill="#000000" font-size="10" font-family="Arial">&lt;i&gt;</text>
+   <text x="1180" y="373" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="1180" y="386" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="399" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="412" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="425" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="438" fill="#000000" font-size="10" font-family="Arial">null</text>
+   <text x="1180" y="451" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="464" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="477" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="490" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="503" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1180" y="516" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="871" x2="1227" y1="523" y2="523" stroke="#0080c0" stroke-width="1"/>
+   <text x="895" y="533" fill="#000000" font-size="10" font-family="Arial">PK_CLIEENDE</text>
+   <text x="895" y="546" fill="#000000" font-size="10" font-family="Arial">UK_CLIEENDE_01</text>
+   <text x="992" y="533" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="992" y="546" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="877,533 878,534 881,534 882,533 886,533 886,534 888,534 888,532 882,532 881,530 878,530 877,532 877,533" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="877,546 878,547 881,547 882,546 886,546 886,547 888,547 888,545 882,545 881,543 878,543 877,545 877,546" stroke="#000000" stroke-width="1"/>
+   <line x1="871" x2="1227" y1="553" y2="553" stroke="#0080c0" stroke-width="1"/>
+   <text x="895" y="563" fill="#000000" font-size="10" font-family="Arial">IDX_CLIEENDE_01</text>
+   <polyline fill="none" points="879,567 886,567 886,556 879,556 879,567" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="881,565 884,565 884,563 881,563 881,565" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="881,560 884,560 884,558 881,558 881,560" stroke="#000000" stroke-width="1"/>
+   <line x1="871" x2="1227" y1="570" y2="570" stroke="#0080c0" stroke-width="1"/>
+   <line x1="871" x2="1227" y1="587" y2="587" stroke="#0080c0" stroke-width="1"/>
+   <text x="875" y="598" fill="#000000" font-size="10" font-family="Arial">[DADO_PESSOAL] Armazena os endereços dos clientes</text>
+   <rect x="110" y="28" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient11" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="110" y="28" fill="url(#Gradient11)" width="350" height="206" stroke="#0080c0" stroke-width="1"/>
+   <text x="285" y="39" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_PRODUTO_IMAGEM</text>
+   <line x1="110" x2="460" y1="45" y2="45" stroke="#0080c0" stroke-width="1"/>
+   <text x="115" y="55" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_PRODUTO_IMAGEM</text>
+   <text x="115" y="68" fill="#000000" font-size="10" font-family="Arial">ID_PRODUTO</text>
+   <text x="115" y="81" fill="#000000" font-size="10" font-family="Arial">TX_CAMINHO_IMAGEM</text>
+   <text x="115" y="94" fill="#000000" font-size="10" font-family="Arial">NU_ORDEM_IMAGEM</text>
+   <text x="115" y="107" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="115" y="120" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="115" y="133" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="115" y="146" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="263" y="55" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="263" y="68" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="263" y="81" fill="#000000" font-size="10" font-family="Arial">VARCHAR(255)  </text>
+   <text x="263" y="94" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="263" y="107" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="263" y="120" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="263" y="133" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="263" y="146" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="350" y="55" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="350" y="68" fill="#000000" font-size="10" font-family="Arial">&lt;ak,fk&gt;</text>
+   <text x="350" y="94" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="390" y="68" fill="#000000" font-size="10" font-family="Arial">&lt;i&gt;</text>
+   <text x="413" y="55" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="413" y="68" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="413" y="81" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="413" y="94" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="413" y="107" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="413" y="120" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="413" y="133" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="413" y="146" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="110" x2="460" y1="153" y2="153" stroke="#0080c0" stroke-width="1"/>
+   <text x="134" y="163" fill="#000000" font-size="10" font-family="Arial">PK_PRODIMAG</text>
+   <text x="134" y="176" fill="#000000" font-size="10" font-family="Arial">UK_PRODIMAG_01</text>
+   <text x="236" y="163" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="236" y="176" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="117,162 118,164 120,164 121,162 125,162 125,164 127,164 127,161 121,161 120,160 118,160 117,161 117,162" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="117,175 118,177 120,177 121,175 125,175 125,177 127,177 127,174 121,174 120,173 118,173 117,174 117,175" stroke="#000000" stroke-width="1"/>
+   <line x1="110" x2="460" y1="183" y2="183" stroke="#0080c0" stroke-width="1"/>
+   <text x="134" y="193" fill="#000000" font-size="10" font-family="Arial">IDX_PRODIMAG_01</text>
+   <polyline fill="none" points="118,196 125,196 125,186 118,186 118,196" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="120,194 123,194 123,192 120,192 120,194" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="120,190 123,190 123,188 120,188 120,190" stroke="#000000" stroke-width="1"/>
+   <line x1="110" x2="460" y1="200" y2="200" stroke="#0080c0" stroke-width="1"/>
+   <line x1="110" x2="460" y1="217" y2="217" stroke="#0080c0" stroke-width="1"/>
+   <text x="114" y="228" fill="#000000" font-size="10" font-family="Arial">[DADO_PUBLICO] Armazena as imagens dos produtos</text>
+   <rect x="2" y="743" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient12" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="2" y="743" fill="url(#Gradient12)" width="364" height="219" stroke="#0080c0" stroke-width="1"/>
+   <text x="184" y="754" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_PRODUTO_UNIDADE_MEDIDA</text>
+   <line x1="2" x2="366" y1="760" y2="760" stroke="#0080c0" stroke-width="1"/>
+   <text x="7" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_PRODUTO_UNIDADE_MEDIDA</text>
+   <text x="7" y="783" fill="#000000" font-size="10" font-family="Arial">NO_UNIDADE_MEDIDA</text>
+   <text x="7" y="796" fill="#000000" font-size="10" font-family="Arial">SG_UNIDADE_MEDIDA</text>
+   <text x="7" y="809" fill="#000000" font-size="10" font-family="Arial">IN_ATIVO</text>
+   <text x="7" y="822" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="7" y="835" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="7" y="848" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="7" y="861" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="179" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">SMALLINT </text>
+   <text x="179" y="783" fill="#000000" font-size="10" font-family="Arial">VARCHAR(50)  </text>
+   <text x="179" y="796" fill="#000000" font-size="10" font-family="Arial">VARCHAR(5) </text>
+   <text x="179" y="809" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="179" y="822" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="179" y="835" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="179" y="848" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="179" y="861" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="260" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="260" y="783" fill="#000000" font-size="10" font-family="Arial">&lt;ak1&gt;</text>
+   <text x="260" y="796" fill="#000000" font-size="10" font-family="Arial">&lt;ak2&gt;</text>
+   <text x="296" y="809" fill="#000000" font-size="10" font-family="Arial">&lt;i&gt;</text>
+   <text x="319" y="770" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="319" y="783" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="319" y="796" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="319" y="809" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="319" y="822" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="319" y="835" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="319" y="848" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="319" y="861" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="2" x2="366" y1="868" y2="868" stroke="#0080c0" stroke-width="1"/>
+   <text x="26" y="878" fill="#000000" font-size="10" font-family="Arial">PK_PRODUNIDMEDI</text>
+   <text x="26" y="891" fill="#000000" font-size="10" font-family="Arial">UK_PRODUNIDMEDI_01</text>
+   <text x="26" y="904" fill="#000000" font-size="10" font-family="Arial">UK_PRODUNIDMEDI_02</text>
+   <text x="151" y="878" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="151" y="891" fill="#000000" font-size="10" font-family="Arial">&lt;ak1&gt;</text>
+   <text x="151" y="904" fill="#000000" font-size="10" font-family="Arial">&lt;ak2&gt;</text>
+   <polyline fill="none" points="8,878 10,879 12,879 13,878 17,878 17,879 19,879 19,877 13,877 12,875 10,875 8,877 8,878" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="8,891 10,892 12,892 13,891 17,891 17,892 19,892 19,890 13,890 12,888 10,888 8,890 8,891" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="8,904 10,905 12,905 13,904 17,904 17,905 19,905 19,903 13,903 12,901 10,901 8,903 8,904" stroke="#000000" stroke-width="1"/>
+   <line x1="2" x2="366" y1="911" y2="911" stroke="#0080c0" stroke-width="1"/>
+   <text x="26" y="921" fill="#000000" font-size="10" font-family="Arial">IDX_PRODUNIDMEDI_01</text>
+   <polyline fill="none" points="10,925 17,925 17,915 10,915 10,925" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="12,923 15,923 15,921 12,921 12,923" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="12,919 15,919 15,917 12,917 12,919" stroke="#000000" stroke-width="1"/>
+   <line x1="2" x2="366" y1="928" y2="928" stroke="#0080c0" stroke-width="1"/>
+   <line x1="2" x2="366" y1="945" y2="945" stroke="#0080c0" stroke-width="1"/>
+   <text x="6" y="956" fill="#000000" font-size="10" font-family="Arial">[DADO_PUBLICO] Armazena as unidades de medida dos produtos</text>
+   <rect x="1656" y="367" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient13" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#b1d5fc"/>
+      </linearGradient>
+   </defs>
+   <rect x="1656" y="367" fill="url(#Gradient13)" width="318" height="216" stroke="#0080c0" stroke-width="1"/>
+   <text x="1815" y="378" fill="#000000" font-size="10" font-family="Arial" text-anchor="middle">TB_CLIENTE_CONTATO</text>
+   <line x1="1656" x2="1974" y1="384" y2="384" stroke="#0080c0" stroke-width="1"/>
+   <text x="1661" y="394" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">ID_CLIENTE_CONTATO</text>
+   <text x="1661" y="407" fill="#000000" font-size="10" font-family="Arial">ID_CLIENTE</text>
+   <text x="1661" y="420" fill="#000000" font-size="10" font-family="Arial">NU_DDD</text>
+   <text x="1661" y="433" fill="#000000" font-size="10" font-family="Arial">NU_TELEFONE</text>
+   <text x="1661" y="446" fill="#000000" font-size="10" font-family="Arial">TP_CONTATO</text>
+   <text x="1661" y="459" fill="#000000" font-size="10" font-family="Arial">IN_PRINCIPAL</text>
+   <text x="1661" y="472" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_CRIACAO</text>
+   <text x="1661" y="485" fill="#000000" font-size="10" font-family="Arial">DT_CRIACAO</text>
+   <text x="1661" y="498" fill="#000000" font-size="10" font-family="Arial">ID_USUARIO_ATUALIZACAO</text>
+   <text x="1661" y="511" fill="#000000" font-size="10" font-family="Arial">DT_ATUALIZACAO</text>
+   <text x="1809" y="394" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">BIGINT</text>
+   <text x="1809" y="407" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1809" y="420" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="1809" y="433" fill="#000000" font-size="10" font-family="Arial">VARCHAR(20) </text>
+   <text x="1809" y="446" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="1809" y="459" fill="#000000" font-size="10" font-family="Arial">TINYINT </text>
+   <text x="1809" y="472" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1809" y="485" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1809" y="498" fill="#000000" font-size="10" font-family="Arial">BIGINT</text>
+   <text x="1809" y="511" fill="#000000" font-size="10" font-family="Arial">TIMESTAMP</text>
+   <text x="1887" y="394" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="1887" y="407" fill="#000000" font-size="10" font-family="Arial">&lt;ak,fk&gt;</text>
+   <text x="1887" y="420" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="1887" y="433" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="1887" y="446" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <text x="1927" y="407" fill="#000000" font-size="10" font-family="Arial">&lt;i1,i2&gt;</text>
+   <text x="1927" y="459" fill="#000000" font-size="10" font-family="Arial">&lt;i2&gt;</text>
+   <text x="1968" y="394" fill="#000000" font-size="10" font-family="Arial" text-decoration="underline">not null</text>
+   <text x="1968" y="407" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="420" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="433" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="446" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="459" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="472" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="485" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="498" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <text x="1968" y="511" fill="#000000" font-size="10" font-family="Arial">not null</text>
+   <line x1="1656" x2="1974" y1="518" y2="518" stroke="#0080c0" stroke-width="1"/>
+   <text x="1680" y="528" fill="#000000" font-size="10" font-family="Arial">PK_CLIECONT</text>
+   <text x="1680" y="541" fill="#000000" font-size="10" font-family="Arial">UK_CLIECONT_01</text>
+   <text x="1778" y="528" fill="#000000" font-size="10" font-family="Arial">&lt;pk&gt;</text>
+   <text x="1778" y="541" fill="#000000" font-size="10" font-family="Arial">&lt;ak&gt;</text>
+   <polyline fill="none" points="1663,527 1664,529 1666,529 1667,527 1671,527 1671,529 1673,529 1673,526 1667,526 1666,525 1664,525 1663,526 1663,527" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1663,540 1664,542 1666,542 1667,540 1671,540 1671,542 1673,542 1673,539 1667,539 1666,538 1664,538 1663,539 1663,540" stroke="#000000" stroke-width="1"/>
+   <line x1="1656" x2="1974" y1="548" y2="548" stroke="#0080c0" stroke-width="1"/>
+   <text x="1680" y="558" fill="#000000" font-size="10" font-family="Arial">IDX_CLIECONT_01</text>
+   <text x="1680" y="571" fill="#000000" font-size="10" font-family="Arial">IDX_CLIECONT_02</text>
+   <polyline fill="none" points="1664,561 1671,561 1671,551 1664,551 1664,561" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1666,559 1669,559 1669,557 1666,557 1666,559" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1666,555 1669,555 1669,553 1666,553 1666,555" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1664,574 1671,574 1671,564 1664,564 1664,574" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1666,572 1669,572 1669,570 1666,570 1666,572" stroke="#000000" stroke-width="1"/>
+   <polyline fill="none" points="1666,568 1669,568 1669,566 1666,566 1666,568" stroke="#000000" stroke-width="1"/>
+   <line x1="1656" x2="1974" y1="578" y2="578" stroke="#0080c0" stroke-width="1"/>
+</svg>
